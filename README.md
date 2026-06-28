@@ -37,6 +37,6 @@ Build a growing collection of computational neuroscience figures while improving
 
 ## Gallery
 
-### Binary Raster Plot
+### Refractory Period
 
-![Binary Raster Plot](figures/binary-raster-plot.png)
+![Refractory Period](figures/refractory-period.png)
