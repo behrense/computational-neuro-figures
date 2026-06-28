@@ -37,6 +37,10 @@ Build a growing collection of computational neuroscience figures while improving
 
 ## Gallery
 
+## LIF Neuron Spike
+
+![LIF Neuron Spike](figures/lif-neuron-spike.png)
+
 ### Refractory Period
 
 ![Refractory Period](figures/refractory-period.png)
