@@ -34,3 +34,9 @@ assets/         Supporting files
 ## Goal
 
 Build a growing collection of computational neuroscience figures while improving scientific programming and visualization skills.
+
+## Gallery
+
+### Binary Raster Plot
+
+![Binary Raster Plot](figures/binary-raster-plot.png)
