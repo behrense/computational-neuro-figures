@@ -1,6 +1,6 @@
 # computational-neuro-figures
 
-A collection of figures, visualizations, and simulations created while studying computational neuroscience.
+A collection of figures, visualizations, and simulations created while studying computational neuroscience at neuromatch academy (NMA).
 
 ## Overview
 
